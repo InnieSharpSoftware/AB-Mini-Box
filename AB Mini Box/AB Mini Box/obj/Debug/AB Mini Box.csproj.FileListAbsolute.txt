@@ -1,0 +1,10 @@
+C:\Users\codaaj\Documents\SharpDevelop Projects\AB Mini Box\AB Mini Box\bin\Debug\AB Mini Box.exe.config
+C:\Users\codaaj\Documents\SharpDevelop Projects\AB Mini Box\AB Mini Box\bin\Debug\AB Mini Box.exe
+C:\Users\codaaj\Documents\SharpDevelop Projects\AB Mini Box\AB Mini Box\bin\Debug\AB Mini Box.pdb
+C:\Users\codaaj\Documents\SharpDevelop Projects\AB Mini Box\AB Mini Box\bin\Debug\FastColoredTextBox.dll
+C:\Users\codaaj\Documents\SharpDevelop Projects\AB Mini Box\AB Mini Box\obj\Debug\AB Mini Box.csprojResolveAssemblyReference.cache
+C:\Users\codaaj\Documents\SharpDevelop Projects\AB Mini Box\AB Mini Box\obj\Debug\AB_Mini_Box.MainForm.resources
+C:\Users\codaaj\Documents\SharpDevelop Projects\AB Mini Box\AB Mini Box\obj\Debug\AB Mini Box.csproj.GenerateResource.Cache
+C:\Users\codaaj\Documents\SharpDevelop Projects\AB Mini Box\AB Mini Box\obj\Debug\AB Mini Box.exe
+C:\Users\codaaj\Documents\SharpDevelop Projects\AB Mini Box\AB Mini Box\obj\Debug\AB Mini Box.pdb
+C:\Users\codaaj\Documents\SharpDevelop Projects\AB Mini Box\AB Mini Box\obj\Debug\AB_Mini_Box.Form1.resources
